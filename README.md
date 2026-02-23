@@ -1,3 +1,7 @@
+## 🐍 Contribution Graph
+
+![GitHub Snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+
 # 👋 Hi, I'm Mohib
 
 Senior Full-Stack Developer • Software Architect • E-commarce Specialist • SaaS Builder 
