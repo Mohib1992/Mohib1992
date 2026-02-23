@@ -15,15 +15,31 @@ I build **production-grade systems** that stay maintainable under real-world sca
 
 ---
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="26"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="26"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="26"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="26"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="26"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="26"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="26"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="26"/>
+## 🛠️ Languages & Tools
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,java,spring,express,nestjs" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,vue,react,tailwind" />
+</p>
+
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" />
+</p>
+
+### Cloud & Infra
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,cloudflare,docker,nginx" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,idea,vscode,postman,linux" />
 </p>
 
 ---
