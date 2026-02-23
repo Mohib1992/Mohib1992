@@ -125,6 +125,7 @@ My goal is to design systems that **survive scale, change, and real-world constr
 
 - English  
 - Bengali
+- Deutch
 
 ---
 
