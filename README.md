@@ -1,78 +1,141 @@
 # 👋 Hi, I'm Mohib Ullah
 
-🚀 Senior Full Stack Developer | SaaS Builder | Open-Source Enthusiast  
-💡 Turning complex ideas into scalable, developer-friendly systems
+**Senior Full Stack Developer | Software Architect | SaaS Builder**
+
+I design and build **production-grade software systems** that scale with teams, businesses, and time.
 
 ---
 
 ## 🧠 About Me
 
-- 🧑‍💻 9+ years of experience in **Laravel, PHP, JavaScript, Java**
-- 🏗️ Architecting **scalable SaaS platforms & developer tools**
-- 📦 Building **opinionated frameworks & packages** to remove boilerplate
-- 🌍 Worked with **multinational teams** across EU & Asia
-- 🧪 Strong believer in **Clean Architecture, DDD, TDD**
+I’m a senior full stack developer with **~10 years of professional experience** across web, SaaS, mobile, and backend-heavy systems.
+
+I’ve worked with **global companies and multicultural teams**, contributed to **large-scale production platforms**, and helped evolve legacy systems into **modern, scalable architectures**.
+
+My focus is not just shipping features —  
+it’s building **systems that remain understandable, testable, and maintainable years later**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🏗️ Professional Experience
 
-### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=flat&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+### **Senior Software Engineer — Portwest UC (Ireland)**  
+*Aug 2021 – Oct 2024*
 
-### Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-### DevOps & Infra
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+- Revamped a **large monolithic CodeIgniter system into Laravel-based microservices**
+- Designed and implemented **RESTful APIs** consumed by modern frontends
+- Integrated **Vue.js** to support a redesigned UI layer
+- Assisted DevOps with deployment, monitoring, and stability improvements
+- Reduced production downtime by **~30%** through refactoring and better system boundaries
 
 ---
 
-## 🧩 What I’m Building
+### **Software Engineer — Feedier (France)**  
+*Nov 2019 – Jul 2021*
 
-- ⚙️ **Action-First Laravel Architecture** (No Controllers)
-- 🔄 **Offline-First Sync Engine** for Web & PWA
-- 📊 **DEX Wallet Intelligence SaaS** (ETH & SOL)
-- 🧠 AI-assisted pipelines for **mass software production**
+- Built and maintained features for a **SaaS customer intelligence platform**
+- Refactored legacy code to improve performance and readability
+- Worked in a strict **Agile environment**
+- Collaborated closely with product and design teams
 
 ---
 
-## 📈 GitHub Stats
+### **Software Engineer — 3 Spire (Bangladesh)**  
+*Jan 2016 – Oct 2019*
 
-![Mohib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohib1992&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohib1992&layout=compact&theme=transparent)
+- Built UIs from wireframes and integrated APIs
+- Delivered client-facing features under real-world constraints
+- Provided technical support and long-term maintenance
+
+---
+
+### **Game & Mobile Developer — HamzaGames (Bangladesh)**  
+*Feb 2014 – Jan 2016*
+
+- Developed games and mobile applications
+- Created assets and optimized runtime performance
+- Gained early experience in **performance-sensitive systems**
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages
+- PHP, JavaScript, Java, SQL
+
+### Frameworks & Platforms
+- Laravel, CodeIgniter, Vue.js, Node.js, Spring Boot
+
+### Databases & Caching
+- MySQL, MariaDB, PostgreSQL, MSSQL, Redis  
+- AWS RDS
+
+### DevOps & Tooling
+- Docker, Git, Nginx, Supervisor
+- AWS CloudWatch, Postman
+
+### Testing & Quality
+- Unit Testing, Pest PHP
+- Strong focus on **testability and system correctness**
+
+### Ways of Working
+- Agile / Scrum
+- Domain-Driven Design (DDD)
+- Test-Driven Development (TDD)
 
 ---
 
 ## 🧪 Philosophy
 
-> “Software should scale teams, not just systems.”
+> **“Software should scale teams, not just systems.”**
 
-I believe great software is built at the intersection of **clarity, discipline, and pragmatism**.
+I believe good software is built with **clarity, discipline, and respect for the future**.
 
-- 🧠 **Business logic first** — architecture should serve the domain, not the framework  
-- 🧩 **Reduce cognitive load** — systems must be easy to understand, extend, and maintain  
-- ⚙️ **Opinionated where it matters** — consistency beats flexibility in production  
-- 🧪 **Quality is non-negotiable** — testing, observability, and reliability are part of development, not afterthoughts  
-- 🤝 **Team-centric design** — code should empower developers across cultures and experience levels  
-- 📈 **Built for longevity** — optimize not just for today’s feature, but for years of evolution  
+- **Business logic comes first** — frameworks are tools, not the architecture  
+- **Reduce cognitive load** — code should be easy to reason about under pressure  
+- **Opinionated where it matters** — consistency beats flexibility in production  
+- **Quality is non-negotiable** — testing, observability, and reliability are part of development  
+- **Team-centric design** — systems must work for developers across cultures and experience levels  
+- **Built for longevity** — optimize for evolution, not just delivery  
 
-My goal is to design systems that **survive scale, change, and real-world pressure** — while staying developer-friendly and business-aligned.
-
----
-
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
-- 🐦 Twitter/X: https://x.com/YOUR_HANDLE
-- 📦 Open Source: https://github.com/YOUR_USERNAME
+My goal is to design systems that **survive scale, change, and real-world constraints** — while staying developer-friendly and business-aligned.
 
 ---
 
-⭐ If you like clean architecture, SaaS tooling, or Laravel internals — feel free to follow!
+## 🚧 What I’m Currently Building
+
+- An **Action-first, Feature-driven architecture** to eliminate controller boilerplate
+- A **Laravel-first offline sync engine** for web & PWA systems
+- A **DEX wallet intelligence SaaS** focused on ETH & SOL retail traders
+- Infrastructure and workflows for **mass-producing web & SaaS products**
+
+---
+
+## 📚 Education & Certifications
+
+- **B.Sc. in Computer Science & Engineering**  
+  University of Development Alternative (2014)
+
+- Web Development with Java — BUET (2013)  
+- Web Development with PHP — New Horizon (2010)
+
+---
+
+## 🌍 Languages
+
+- English  
+- Bengali
+
+---
+
+## 🤝 Interests
+
+- Software architecture & system design
+- Business analysis & product thinking
+- Mentoring and technical leadership
+- Traveling & continuous learning
+
+---
+
+⭐ I care deeply about **clean architecture, real-world scalability, and developer experience**.  
+If you do too — feel free to connect or follow.
