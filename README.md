@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohib
 
-Senior Full-Stack Developer • Software Architect • SaaS Builder
+Senior Full-Stack Developer • Software Architect • E-commarce Specialist • SaaS Builder 
 
 I build **production-grade systems** that stay maintainable under real-world scale, team growth, and business pressure.
 
@@ -29,7 +29,7 @@ I build **production-grade systems** that stay maintainable under real-world sca
 
 ### Database & Cache
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mssql,redis" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis" />
 </p>
 
 ### Cloud & Infrastructure
@@ -42,22 +42,10 @@ I build **production-grade systems** that stay maintainable under real-world sca
   <img src="https://skillicons.dev/icons?i=git,github,postman,figma,linux" />
 </p>
 
----
-
-## 🧩 What I’m Into Lately
-
-- Action-first architectures (less controllers, more intent)
-- Offline-first systems & sync engines
-- SaaS tooling for developers & businesses
-- AI-assisted workflows for faster product delivery
-
----
-
 ## 🧪 Philosophy
 
 > *“Software should scale teams, not just systems.”*
 
-- Business logic over framework magic  
 - Opinionated systems beat flexible chaos  
 - Code should be easy to read **under pressure**  
 - Quality, testing, and observability are part of development  
