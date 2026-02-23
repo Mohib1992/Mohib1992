@@ -1,6 +1,6 @@
 ## 🐍 Contribution Graph
 
-![GitHub Snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake](https://raw.githubusercontent.com/Mohib1992/Mohib1992/output/github-contribution-grid-snake-dark.svg)
 
 # 👋 Hi, I'm Mohib
 
