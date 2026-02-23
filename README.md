@@ -45,19 +45,25 @@
 
 ## 📈 GitHub Stats
 
-![Mohib's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
+![Mohib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohib1992&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohib1992&layout=compact&theme=transparent)
 
 ---
 
 ## 🧪 Philosophy
 
-> “Write business logic once.  
-> Remove friction everywhere else.”
+> “Software should scale teams, not just systems.”
 
-- Less boilerplate
-- More intent
-- Production-grade by default
+I believe great software is built at the intersection of **clarity, discipline, and pragmatism**.
+
+- 🧠 **Business logic first** — architecture should serve the domain, not the framework  
+- 🧩 **Reduce cognitive load** — systems must be easy to understand, extend, and maintain  
+- ⚙️ **Opinionated where it matters** — consistency beats flexibility in production  
+- 🧪 **Quality is non-negotiable** — testing, observability, and reliability are part of development, not afterthoughts  
+- 🤝 **Team-centric design** — code should empower developers across cultures and experience levels  
+- 📈 **Built for longevity** — optimize not just for today’s feature, but for years of evolution  
+
+My goal is to design systems that **survive scale, change, and real-world pressure** — while staying developer-friendly and business-aligned.
 
 ---
 
