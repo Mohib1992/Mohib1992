@@ -1,15 +1,3 @@
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com
-  ?font=JetBrains+Mono
-  &size=22
-  &pause=1000
-  &color=58A6FF
-  &width=550
-  &lines=Senior+Full+Stack+Developer;
-  Software+Architect+%7C+SaaS+Builder;
-  Building+production-grade+systems" />
-</p>
-
 # 👋 Hi, I'm Mohib
 
 Senior Full-Stack Developer • Software Architect • E-commarce Specialist • SaaS Builder 
@@ -79,3 +67,6 @@ Worked with **global teams** across Europe and Asia, shipping and maintaining sy
 
 ⭐ I enjoy clean architecture, thoughtful abstractions, and building tools that make developers’ lives easier.  
 If that resonates — feel free to follow or connect.
+
+
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=transparent)
