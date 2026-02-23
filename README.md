@@ -19,27 +19,27 @@ I build **production-grade systems** that stay maintainable under real-world sca
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,java,spring,express,nestjs" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,java" />
 </p>
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,vue,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,vue,tailwind" />
 </p>
 
-### Database
+### Database & Cache
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mssql,redis" />
 </p>
 
-### Cloud & Infra
+### Cloud & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,cloudflare,docker,nginx" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx" />
 </p>
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,idea,vscode,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,linux" />
 </p>
 
 ---
