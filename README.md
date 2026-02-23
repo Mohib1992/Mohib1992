@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohib
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=F7F5F1&background=576AFF00&width=435&lines=%23+%F0%9F%91%8B+Hi%2C+I'm+Mohib)](https://git.io/typing-svg)
 
 Senior Full-Stack Developer • Software Architect • E-commarce Specialist • SaaS Builder 
 
