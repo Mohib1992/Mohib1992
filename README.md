@@ -1,6 +1,14 @@
-## 🐍 Contribution Graph
-
-![GitHub Snake](https://raw.githubusercontent.com/Mohib1992/Mohib1992/output/github-contribution-grid-snake-dark.svg)
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com
+  ?font=JetBrains+Mono
+  &size=22
+  &pause=1000
+  &color=58A6FF
+  &width=550
+  &lines=Senior+Full+Stack+Developer;
+  Software+Architect+%7C+SaaS+Builder;
+  Building+production-grade+systems" />
+</p>
 
 # 👋 Hi, I'm Mohib
 
@@ -54,6 +62,12 @@ I build **production-grade systems** that stay maintainable under real-world sca
 - Code should be easy to read **under pressure**  
 - Quality, testing, and observability are part of development  
 - Build for **years**, not just the next release
+
+---
+
+## 🐍 Contribution Graph
+
+![GitHub Snake](https://raw.githubusercontent.com/Mohib1992/Mohib1992/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
